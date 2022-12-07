@@ -1,1 +1,1 @@
-const ENV = "production";
+const ENV = "staging";
